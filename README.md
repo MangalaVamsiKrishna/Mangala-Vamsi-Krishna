@@ -1,4 +1,4 @@
-
+![Vamsi!](Images/IMG_4693.jpeg)
 <img align="right" alt="Coding" width="400" src="./Images/developer.avif">
 
 <h1 align="center">Hi 👋, I'm Mangala Vamsi Krishna</h1>
