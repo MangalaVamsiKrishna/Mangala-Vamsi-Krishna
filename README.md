@@ -1,5 +1,4 @@
-![Vamsi!](Images/IMG_4693.jpeg)
-<img align="right" alt="Coding" width="400" src="./Images/developer.avif">
+![Vamsi!](images/IMG_4693.jpeg)
 
 <h1 align="center">Hi 👋, I'm Mangala Vamsi Krishna</h1>
 <h3 align="center">A passionate Full Stack .Net Developer from India</h3>
