@@ -20,7 +20,7 @@
 <p align="left">
 <a href="http://linkedin.com/in/mangala-vamsi-krishna-a7232b126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mangala vamsi krishna" height="30" width="40" /></a>
 <a href="https://fb.com/vamsi krishnasam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vamsi krishnasam" height="30" width="40" /></a>
-<a href="https://instagram.com/vamsi krishnasam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vamsi krishnasam" height="30" width="40" /></a>
+<a href="https://instagram.com/vamsikrishnasam?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vamsi krishnasam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
